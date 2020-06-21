@@ -1,0 +1,5 @@
+1、配置tomcat8.5
+2、将完整项目代码（back）用eclipse打开
+3、修改数据库配置，包括端口号，用户名和密码
+4、右键项目run on server
+5、在src/main/webapp下找到前端项目front文件夹中的pages文件夹，里面选择任意html文件，右键run on server后均可直接进入系统
